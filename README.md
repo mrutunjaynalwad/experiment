@@ -1,1 +1,3 @@
 # experiment
+ls
+mkdir
