@@ -1,2 +1,2 @@
 # experiment
-ls
+mkdir
