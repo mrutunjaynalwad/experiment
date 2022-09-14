@@ -1,3 +1,2 @@
 # experiment
-ls
 grep
