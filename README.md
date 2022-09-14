@@ -1,2 +1,5 @@
 # experiment
 ls
+mkdir
+cd 
+
